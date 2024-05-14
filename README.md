@@ -1,4 +1,4 @@
-# curso HTML e CSS
+# Olá Mundo
 
 Primeiro repositório do curso de Git e GitHub.
 
